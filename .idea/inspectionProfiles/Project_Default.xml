@@ -1,0 +1,18 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnreachableCodeInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="str.send_keys" />
+          <option value="list.decode" />
+          <option value="str.__setitem__" />
+          <option value="selenium.webdriver.chrome.options.Options.__await__" />
+          <option value="list.find_element" />
+          <option value="list.click" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
